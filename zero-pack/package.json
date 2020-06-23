@@ -1,0 +1,9 @@
+{
+  "name": "zero-pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "pack": "./src/index.js"
+  }
+}
